@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-common/fssp-pubjz-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-common/fssp-pubjz-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-common/fssp-pubjz-foundation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-common/fssp-pubjz-foundation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data-entity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data-repository/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-external-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-external-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-external-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-external-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-internal-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-internal-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-internal-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-internal-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-publogic/fssp-jzgx-publogic-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-publogic/fssp-jzgx-publogic-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-webproject/fssp-jzgx-webproject-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-webproject/fssp-jzgx-webproject-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz-core/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

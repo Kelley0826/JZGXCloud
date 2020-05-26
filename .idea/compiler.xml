@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fssp-jzgx-webproject-web" />
+        <module name="fssp-jzgx-cbywbiz-core" />
+        <module name="fssp-jzgx-zcywbiz-api" />
+        <module name="fssp-jzgx-wzywbiz-api" />
+        <module name="fssp-jzgx-internal-api" />
+        <module name="fssp-pubjz-foundation" />
+        <module name="fssp-jzgx-external-api" />
+        <module name="fssp-jzgx-wzywbiz-core" />
+        <module name="fssp-jzgx-zcywbiz-core" />
+        <module name="fssp-jzgx-cwhsbiz-core" />
+        <module name="fssp-jzgx-cwhsbiz-api" />
+        <module name="fssp-jzgx-cbywbiz-api" />
+        <module name="fssp-jzgx-data-entity" />
+        <module name="fssp-jzgx-jtywbiz-api" />
+        <module name="fssp-jzgx-external-core" />
+        <module name="fssp-jzgx-jtywbiz-core" />
+        <module name="fssp-jzgx-publogic-common" />
+        <module name="fssp-jzgx-data-repository" />
+        <module name="fssp-jzgx-internal-core" />
+        <module name="fssp-pubjz-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fssp-jzgx-cbywbiz" target="1.8" />
+      <module name="fssp-jzgx-cbywbiz-api" target="1.8" />
+      <module name="fssp-jzgx-cbywbiz-core" target="1.8" />
+      <module name="fssp-jzgx-common" target="1.8" />
+      <module name="fssp-jzgx-cwhsbiz" target="1.8" />
+      <module name="fssp-jzgx-cwhsbiz-api" target="1.8" />
+      <module name="fssp-jzgx-cwhsbiz-core" target="1.8" />
+      <module name="fssp-jzgx-data" target="1.8" />
+      <module name="fssp-jzgx-data-entity" target="1.8" />
+      <module name="fssp-jzgx-data-repository" target="1.8" />
+      <module name="fssp-jzgx-external-api" target="1.8" />
+      <module name="fssp-jzgx-external-core" target="1.8" />
+      <module name="fssp-jzgx-gjapi" target="1.8" />
+      <module name="fssp-jzgx-internal-api" target="1.8" />
+      <module name="fssp-jzgx-internal-core" target="1.8" />
+      <module name="fssp-jzgx-jtywbiz" target="1.8" />
+      <module name="fssp-jzgx-jtywbiz-api" target="1.8" />
+      <module name="fssp-jzgx-jtywbiz-core" target="1.8" />
+      <module name="fssp-jzgx-publogic" target="1.8" />
+      <module name="fssp-jzgx-publogic-common" target="1.8" />
+      <module name="fssp-jzgx-webproject" target="1.8" />
+      <module name="fssp-jzgx-webproject-web" target="1.8" />
+      <module name="fssp-jzgx-wzywbiz" target="1.8" />
+      <module name="fssp-jzgx-wzywbiz-api" target="1.8" />
+      <module name="fssp-jzgx-wzywbiz-core" target="1.8" />
+      <module name="fssp-jzgx-zcywbiz" target="1.8" />
+      <module name="fssp-jzgx-zcywbiz-api" target="1.8" />
+      <module name="fssp-jzgx-zcywbiz-core" target="1.8" />
+      <module name="fssp-pubjz-common" target="1.8" />
+      <module name="fssp-pubjz-foundation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

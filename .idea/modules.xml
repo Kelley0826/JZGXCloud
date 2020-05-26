@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JzgxCloud.iml" filepath="$PROJECT_DIR$/.idea/JzgxCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz.iml" filepath="$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz-api/fssp-jzgx-cbywbiz-api.iml" filepath="$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz-api/fssp-jzgx-cbywbiz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz-core/fssp-jzgx-cbywbiz-core.iml" filepath="$PROJECT_DIR$/fssp-jzgx-cbywbiz/fssp-jzgx-cbywbiz-core/fssp-jzgx-cbywbiz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-common/fssp-jzgx-common.iml" filepath="$PROJECT_DIR$/fssp-jzgx-common/fssp-jzgx-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz.iml" filepath="$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz-api/fssp-jzgx-cwhsbiz-api.iml" filepath="$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz-api/fssp-jzgx-cwhsbiz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz-core/fssp-jzgx-cwhsbiz-core.iml" filepath="$PROJECT_DIR$/fssp-jzgx-cwhsbiz/fssp-jzgx-cwhsbiz-core/fssp-jzgx-cwhsbiz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data.iml" filepath="$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data-entity/fssp-jzgx-data-entity.iml" filepath="$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data-entity/fssp-jzgx-data-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data-repository/fssp-jzgx-data-repository.iml" filepath="$PROJECT_DIR$/fssp-jzgx-data/fssp-jzgx-data-repository/fssp-jzgx-data-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-external-api/fssp-jzgx-external-api.iml" filepath="$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-external-api/fssp-jzgx-external-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-external-core/fssp-jzgx-external-core.iml" filepath="$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-external-core/fssp-jzgx-external-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-gjapi.iml" filepath="$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-gjapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-internal-api/fssp-jzgx-internal-api.iml" filepath="$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-internal-api/fssp-jzgx-internal-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-internal-core/fssp-jzgx-internal-core.iml" filepath="$PROJECT_DIR$/fssp-jzgx-gjapi/fssp-jzgx-internal-core/fssp-jzgx-internal-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz.iml" filepath="$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz-api/fssp-jzgx-jtywbiz-api.iml" filepath="$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz-api/fssp-jzgx-jtywbiz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz-core/fssp-jzgx-jtywbiz-core.iml" filepath="$PROJECT_DIR$/fssp-jzgx-jtywbiz/fssp-jzgx-jtywbiz-core/fssp-jzgx-jtywbiz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-publogic/fssp-jzgx-publogic.iml" filepath="$PROJECT_DIR$/fssp-jzgx-publogic/fssp-jzgx-publogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-publogic/fssp-jzgx-publogic-common/fssp-jzgx-publogic-common.iml" filepath="$PROJECT_DIR$/fssp-jzgx-publogic/fssp-jzgx-publogic-common/fssp-jzgx-publogic-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-webproject/fssp-jzgx-webproject.iml" filepath="$PROJECT_DIR$/fssp-jzgx-webproject/fssp-jzgx-webproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-webproject/fssp-jzgx-webproject-web/fssp-jzgx-webproject-web.iml" filepath="$PROJECT_DIR$/fssp-jzgx-webproject/fssp-jzgx-webproject-web/fssp-jzgx-webproject-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz.iml" filepath="$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz-api/fssp-jzgx-wzywbiz-api.iml" filepath="$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz-api/fssp-jzgx-wzywbiz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz-core/fssp-jzgx-wzywbiz-core.iml" filepath="$PROJECT_DIR$/fssp-jzgx-wzywbiz/fssp-jzgx-wzywbiz-core/fssp-jzgx-wzywbiz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz.iml" filepath="$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz-api/fssp-jzgx-zcywbiz-api.iml" filepath="$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz-api/fssp-jzgx-zcywbiz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz-core/fssp-jzgx-zcywbiz-core.iml" filepath="$PROJECT_DIR$/fssp-jzgx-zcywbiz/fssp-jzgx-zcywbiz-core/fssp-jzgx-zcywbiz-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-common/fssp-pubjz-common/fssp-pubjz-common.iml" filepath="$PROJECT_DIR$/fssp-jzgx-common/fssp-pubjz-common/fssp-pubjz-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fssp-jzgx-common/fssp-pubjz-foundation/fssp-pubjz-foundation.iml" filepath="$PROJECT_DIR$/fssp-jzgx-common/fssp-pubjz-foundation/fssp-pubjz-foundation.iml" />
+    </modules>
+  </component>
+</project>

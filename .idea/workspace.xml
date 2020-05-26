@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6a3ba8d-4827-45fc-904b-95dbd0cf0af1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_cache" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../IDEA Setup/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dfile.encoding=GB2312" />
+  </component>
+  <component name="ProjectId" id="1bZniSI5ih9HYwkGfk6pNBXWcqA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="7085f451-b8db-4799-ad33-e5c8fa87e1d7" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IdeaWorkspace" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+      <recent name="com.inspur.gs.fssp.jzgx.data.entity.pub" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6a3ba8d-4827-45fc-904b-95dbd0cf0af1" name="Default Changelist" comment="" />
+      <created>1588848609707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588848609707</updated>
+      <workItem from="1588848611067" duration="32000" />
+      <workItem from="1588929646084" duration="2984000" />
+      <workItem from="1588986394930" duration="21172000" />
+      <workItem from="1589158643784" duration="6931000" />
+      <workItem from="1589168568551" duration="636000" />
+      <workItem from="1589175032976" duration="5968000" />
+      <workItem from="1589183852245" duration="480000" />
+      <workItem from="1589188798678" duration="924000" />
+      <workItem from="1589244667981" duration="22832000" />
+      <workItem from="1589330620673" duration="29697000" />
+      <workItem from="1589419436093" duration="6717000" />
+      <workItem from="1589503583906" duration="1244000" />
+      <workItem from="1589762845825" duration="2035000" />
+      <workItem from="1589849703000" duration="27583000" />
+      <workItem from="1589935563720" duration="25716000" />
+      <workItem from="1590021592042" duration="35117000" />
+      <workItem from="1590109562671" duration="23096000" />
+      <workItem from="1590147052255" duration="2942000" />
+      <workItem from="1590366922169" duration="16370000" />
+      <workItem from="1590394144322" duration="6079000" />
+      <workItem from="1590452827154" duration="12139000" />
+      <workItem from="1590475245691" duration="1624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="253" key="#Assign_Data_Sources" timestamp="1589879611042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="575" y="253" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1589879611042" />
+    <state x="565" y="225" key="#Notifications" timestamp="1588930189957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="225" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1588930189957" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1590465125523">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590465125523" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590465470431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590465470431" />
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1590390298653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590390298653" />
+    <state x="412" y="179" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1590465537234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="179" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1590465537234" />
+    <state x="353" y="91" width="659" height="627" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1590466048073">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="91" width="659" height="627" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1366.728@0.0.1366.728" timestamp="1590466048073" />
+    <state x="353" y="160" key="#com.intellij.jpa.generation.ui.ImportMappingsDialog" timestamp="1590465401705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="160" key="#com.intellij.jpa.generation.ui.ImportMappingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590465401705" />
+    <state x="140" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589943108338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="140" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1589943108338" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589872631877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1589872631877" />
+    <state x="413" y="0" width="540" height="670" key="CheckoutDialog.Title" timestamp="1590393910999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="0" width="540" height="670" key="CheckoutDialog.Title/0.0.1366.728@0.0.1366.728" timestamp="1590393910999" />
+    <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1590475304120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590475304120" />
+    <state width="1323" height="123" key="GridCell.Tab.0.bottom" timestamp="1590472399923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="123" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590472399923" />
+    <state width="1323" height="123" key="GridCell.Tab.0.center" timestamp="1590472399923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="123" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590472399923" />
+    <state width="1323" height="123" key="GridCell.Tab.0.left" timestamp="1590472399923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="123" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590472399923" />
+    <state width="1323" height="123" key="GridCell.Tab.0.right" timestamp="1590472399923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="123" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590472399923" />
+    <state x="263" y="98" key="IDE.errors.dialog" timestamp="1590125728366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1590125728366" />
+    <state x="413" y="0" width="540" height="670" key="ImportDialog.Title" timestamp="1590117184196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="0" width="540" height="670" key="ImportDialog.Title/0.0.1366.728@0.0.1366.728" timestamp="1590117184196" />
+    <state x="344" y="67" key="NewModule_or_Project.wizard" timestamp="1588930451351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1588930451351" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1590477008316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590477008316" />
+    <state x="385" y="98" width="867" height="564" key="find.popup" timestamp="1590375144203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="385" y="98" width="867" height="564" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1590375144203" />
+    <state x="61" y="16" key="new project wizard" timestamp="1589351786404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="61" y="16" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589351786404" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1590367856634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1590367856634" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589939829623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589939829623" />
+  </component>
+</project>
